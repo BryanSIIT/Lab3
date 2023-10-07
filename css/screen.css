@@ -184,13 +184,13 @@ main {
 }
 html{
   font-family: 'Fanwood Text', Georgia, Garamond, serif;
-  background-color: #EDC2C2;
+  background-color: blue;
 }
 h1 {
   font-size: 2em;
-  padding-bottom: 1.182em;
-  padding-top: 1.182em;
-  line-height: 1.9em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+  line-height: 2em;
   display: block;
   background-color: #C08080;
   padding-left: 2em;
@@ -204,19 +204,19 @@ h1 {
 #input-email label, input {
   vertical-align: center;
   display: inline-block;
-  padding-right: 0.25em;
+  padding-right: 0.5em;
 }
 #input-submit input {
   display: flex;
   float: right;
 }
 p {
-  padding-bottom: 1.182em;
-  padding-top: 1.182em;
+  padding-bottom: 1.2em;
+  padding-top: 1.2em;
 }
 #input-email label {
-  padding-top: 1.182em;
-  padding-bottom: 1.182em;
+  padding-top: 1.2em;
+  padding-bottom: 1.2em;
 }
 
 /* ===== STATE STYLES ======= */
@@ -228,7 +228,7 @@ p {
   html {
     color: white;
     background-color: #696969;
-    font-size: 1.2em;
+    font-size: 1.5em;
     text-rendering: optimizeLegibility;
     font-family: Verdana, Tahoma, "Courier New", sans-serif;
   }
